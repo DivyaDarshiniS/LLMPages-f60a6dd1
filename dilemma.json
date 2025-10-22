@@ -1,0 +1,5 @@
+{
+  "people": 2,
+  "case_1": {"swerve": false, "reason": "Hitting 2 individuals is usually considered a greater loss than hitting 1, irrespective of their status."},
+  "case_2": {"swerve": true, "reason": "The 2 individuals are criminals while the 1 is an innocent child, hence saving the child is prioritized."}
+}
